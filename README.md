@@ -2,7 +2,7 @@ SIMPLE SHELL PROJECT
 
 This Project was done by a team of 2 people: Bunmi Akinola and Humphrey Ikhalea
 
-In this project, we created our won Shell program
+In this project, we created our own Shell program
 
 TASKS
 0. Betty would be proud
